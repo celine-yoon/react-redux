@@ -2,12 +2,12 @@
 
 ## Description
 
-Learning Redux using React-redux and Redux Toolkit
+Learning Redux using React-Redux and Redux Toolkit
 
 ### Packages
 
 - React
-- React-redux
+- React-Redux
 - Redux Toolkit
 
 ### Features

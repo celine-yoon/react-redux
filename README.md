@@ -2,13 +2,12 @@
 
 ## Description
 
-Learning Redux using React-Redux and Redux Toolkit
+Learning Redux using React-Redux
 
 ### Packages
 
 - React
 - React-Redux
-- Redux Toolkit
 
 ### Features
 
@@ -16,6 +15,6 @@ Learning Redux using React-Redux and Redux Toolkit
 - Dispatch
 - Subscribe
 - Reducer
+- connect
 - mapStateToProps
 - mapDispatchToProps
-- Redux Toolkit
